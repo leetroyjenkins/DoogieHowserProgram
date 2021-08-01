@@ -1,7 +1,7 @@
 # PythonExample
 An example of my work in Python for CS 521 at Boston University.
 
-
+The Doogie Howser Program is a journaling program created to highlight my ability to create a functioning program in Python.
 
 Instructions:
 
